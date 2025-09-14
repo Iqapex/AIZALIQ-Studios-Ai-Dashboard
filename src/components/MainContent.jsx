@@ -5,7 +5,7 @@ import './styles/main.css';
 function MainContent() {
     return (
         <main className="main-content">
-            <h2>Interview Groups</h2>
+            
 
             <div className="group">
                 <h3 className="section-title">Interview</h3>
@@ -85,7 +85,7 @@ function MainContent() {
                         <span>Perplexity</span>
                     </div>
                     <div className="llm-item">
-                        <img src="https://closebot.com/wp-content/uploads/2025/06/grok_240x240_white.png" alt="Grok" />
+                        <img src="https://images.seeklogo.com/logo-png/61/2/grok-logo-png_seeklogo-613403.png" alt="Grok" />
                         <span>Grok</span>
                     </div>
                 </div>
